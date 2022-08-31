@@ -38,6 +38,7 @@ Then:
 * Add the project to the OpenTelekomCloud Infrastructure
 
 
+.. _OpenTelekomCloud-Infra: https://docs.otc.t-systems.com/
 .. _pbr: https://docs.openstack.org/pbr/latest/
 .. _stestr: https://stestr.readthedocs.io/
 .. _Tox: https://tox.readthedocs.io/en/latest/
