@@ -1,5 +1,5 @@
 ============================================
- {{cookiecutter.module_name}} Release Notes
+{{cookiecutter.repo_name}} Release Notes
 ============================================
 
 .. toctree::
