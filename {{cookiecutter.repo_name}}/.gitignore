@@ -52,6 +52,9 @@ output/*/index.html
 
 # Sphinx
 doc/build
+api-ref/build
+umn/build
+dev-guide/build
 
 # pbr generates these
 AUTHORS
